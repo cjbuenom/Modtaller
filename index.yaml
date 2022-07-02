@@ -11,14 +11,4 @@ entries:
     urls:
     - modtaller-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-07-02T02:29:31.2688484-04:00"
-    description: A Helm chart for Kubernetes
-    digest: 6f818ae5fe76abf063e9ae7ad22bd84e7330a0e839d56c1492798e4c17b6c6c4
-    name: modtaller
-    type: application
-    urls:
-    - modtaller-0.1.0.tgz
-    version: 0.1.0
 generated: "2022-07-02T02:29:31.2682715-04:00"
